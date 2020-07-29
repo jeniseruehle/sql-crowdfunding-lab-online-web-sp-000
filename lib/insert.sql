@@ -14,7 +14,7 @@ INSERT INTO projects (id, title, category, funding_goal, start_date, end_date) V
 INSERT INTO pledges (id, amount, user_id, project_id) VALUES
 (1, 5.00, 1, 10),
 (2, 50.00, 1, 4),
-(3, 100.00, 1, ),
+(3, 100.00, 1, 5),
 (4, 25.00, 2, 3),
 (5, 10.00, 3, 2),
 (6, 20.00, 4, 4),
