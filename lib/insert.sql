@@ -10,3 +10,4 @@ INSERT INTO projects (id, title, category, funding_goal, start_date, end_date) V
 (8, "astral travel guide", "travel", 150, 2020, 2020)
 (9, "virtual candle maker", "misc", 80, 2020, 2020)
 (10, "virtual cooking class", "food", 150, 2020, 2021)
+
