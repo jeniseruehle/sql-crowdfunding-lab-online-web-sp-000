@@ -1,6 +1,6 @@
 INSERT INTO users (id, name, age) VALUES (1, "Mulan", 28), (2, "Belle", 30), (3, "Tiana", 31), (4, "Pocahontas", 30), (5, "Merida", 26), (6, "Rapunzel", 29), (7, "Jasmine", 32), (8, "Elsa", 35), (9, "Anna", 33), (10, "Ariel", 32), (11, "Jane", 34), (12, "Moana", 28), (13, "Shuri", 28), (14, "Sally", 33), (15, "Kida", 35), (16, "Aurora", 40), (17, "Snow White", 52), (18, "Thumbelina", 45), (19, "Cinderella", 43), (20, "Tinkerbell", 150) 
 INSERT INTO projects (id, title, category, funding_goal, start_date, end_date) VALUES 
-(1, "book drive", )
+(1, "book drive", "books",  )
 (2)
 (3)
 (4)
